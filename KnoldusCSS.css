@@ -1,0 +1,46 @@
+nav {
+    font-size: 50;
+}
+
+h1, h2, h3 {
+    font: arial;
+    font-weight: normal;
+}
+
+li {
+    font-size: 25;
+}
+
+div {
+    color: blue;
+}
+
+.gtlt {
+    color: blue
+}
+
+.red {
+    color: red
+}
+
+table, th, td, tr1{
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-weight: normal;
+}
+
+#head {
+    font-weight: bold;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+
+#fname2 {
+    te
+}
